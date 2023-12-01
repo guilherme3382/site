@@ -1,9 +1,6 @@
-  :root {
-    --cor-de-fundo: #181616;
-  }
-  
-  body {
-    background-color: var(--cor-de-fundo);
-  }
+header {
+  background-color: aqua;
+  color: rgb(158, 58, 58);
+}
     
-  
+img                                              
